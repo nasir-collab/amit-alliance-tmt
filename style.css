@@ -1,0 +1,6 @@
+body{font-family:Segoe UI,sans-serif;margin:0;background:#f7f7f7}
+.topbar{background:#0b1b3f;padding:15px}
+.topbar nav a{color:#fff;margin-left:20px;text-decoration:none}
+.hero{background:linear-gradient(135deg,#6a11cb,#2575fc);color:#fff;padding:80px}
+.btn{background:#ffd700;color:#000;padding:12px 25px;border-radius:30px;text-decoration:none}
+footer{background:#0b1b3f;color:#fff;text-align:center;padding:20px}
